@@ -1,0 +1,22 @@
+body {
+  background-color: #282828;
+  color: white;
+}
+.item {
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid wheat;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.item .place-name {
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+/* .image-item{
+  width: ;
+} */
